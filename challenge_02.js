@@ -30,7 +30,7 @@ Desarrolla un mini compilador que tome una cadena de texto y devuelva otra caden
 2. Crea un programa al que le pases como entrada el mensaje anterior. Envía la salida con el comando "submit" en la terminal, por ejemplo así:
  */
 
-const encoded = '&##&*&@&'
+const encoded = '&###@&*&###@@##@##&######@@#####@#@#@#@##@@@@@@@@@@@@@@@*&&@@@@@@@@@####@@@@@@@@@#########&#&##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@&'
 let count = 0;
 let output = ''
 encoded.split('').forEach((data) => {
